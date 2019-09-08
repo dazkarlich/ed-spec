@@ -1,0 +1,9 @@
+//List of used parts//
+
+Solid Aluminum Optical Breadboards from THORLABS 
+https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_ID=159
+Optical Posts: Ø1/2" and Ø12 mm and apropriate Ø1/2" Post Holders
+https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_ID=1268
+https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_ID=1268
+Fixed Lens Mounts
+https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=1433
